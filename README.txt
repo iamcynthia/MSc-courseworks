@@ -1,6 +1,4 @@
-README 
-
-- Computer Programming Coursework
+- Computer Programming Coursework 2019/12
 
 - The coursework is to address several type of files such as XML, CSV and JSON files.
 
